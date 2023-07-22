@@ -1,16 +1,19 @@
-# quizzler
+# Quizzler ❓
 
-A new Flutter project.
+A simple and elegant quiz app that tests your general knowledge.
 
-## Getting Started
+## What all did I learn through this project?
 
-This project is a starting point for a Flutter application.
+- Modularising my code into separate classes.
+- Dart classes and objects.
+- Using class constructors.
+- Extracting Widgets to refactor my code.
+- private and public modifiers in Dart.
+- How to use Dart lists.
+- The difference between var, const and final.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/kichuman28/Quizzler/assets/97717315/53e45557-ea7d-4709-b054-c4f66dbfe8ed
+
